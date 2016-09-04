@@ -1,4 +1,4 @@
-# Git $B%A%e!<%H%j%"%k(B
+# Git チュートリアル
 test
 
 - feature-A
